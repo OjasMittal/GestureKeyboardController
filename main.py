@@ -4,8 +4,6 @@ import time
 from controlkeys import right_pressed,left_pressed,up_pressed,down_pressed
 from controlkeys import KeyOn, KeyOff
 
-
-
 left_key_pressed=left_pressed
 right_key_pressed=right_pressed
 up_key_pressed=up_pressed
