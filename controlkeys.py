@@ -7,6 +7,7 @@ down_pressed=0x50
 right_pressed=0x4D
 left_pressed=0x4B
 
+
 PUL = ctypes.POINTER(ctypes.c_ulong)
 class KeyBdInput(ctypes.Structure):
     _fields_ = [("wVk", ctypes.c_ushort),

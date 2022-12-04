@@ -15,7 +15,6 @@ current_key_pressed = set()
 mp_draw=mp.solutions.drawing_utils
 mp_hand=mp.solutions.hands
 
-
 tipIds=[4,8,12,16,20]
 
 video=cv2.VideoCapture(0)
