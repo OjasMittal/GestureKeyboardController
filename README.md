@@ -1,4 +1,4 @@
-# GestureKeyboardController
+# Gesture Keyboard Controller
 A tool to control games using hand gestures!!
 Current functionality - Up,Down,Left,Right.
 
