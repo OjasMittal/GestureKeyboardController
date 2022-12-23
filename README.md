@@ -11,3 +11,5 @@ Down-0 fingers/closed wrist
 Left- only left palm open
 
 Right- only right palm open
+
+Upcoming feature: 360 degree cursor movement using eye tracking - useful to play games like Call of Duty, Free fire,etc.
